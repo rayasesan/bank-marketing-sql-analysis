@@ -8,6 +8,10 @@ This project analyzes a bank marketing campaign dataset using SQL to identify cu
 
 Bank Marketing Dataset (UCI Machine Learning Repository)
 
+- Total Records: 45,211
+- Features: 17
+- Target Variable: Subscription (yes/no)
+
 ## Tools
 
 - SQLite
