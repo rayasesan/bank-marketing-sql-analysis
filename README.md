@@ -65,3 +65,10 @@ Bank Marketing Dataset (UCI Machine Learning Repository)
 2. Focus on high-converting customer segments such as students and retirees.
 3. Increase the use of cellular contact channels.
 4. Optimize campaign timing based on historical conversion performance.
+
+Project Structure
+
+├── dataset/
+├── bank_marketing.db
+├── bank_marketing_analysis.sql
+└── README.md
