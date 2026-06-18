@@ -66,9 +66,11 @@ Bank Marketing Dataset (UCI Machine Learning Repository)
 3. Increase the use of cellular contact channels.
 4. Optimize campaign timing based on historical conversion performance.
 
-Project Structure
+## Project Structure
 
+```
 ├── dataset/
 ├── bank_marketing.db
 ├── bank_marketing_analysis.sql
 └── README.md
+ ``` 
